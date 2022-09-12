@@ -1,6 +1,9 @@
 # Emacs temp files
 *~
-#*#
+**/*#*
 
 # Build output
 .build
+
+# Local env data
+.env.local
